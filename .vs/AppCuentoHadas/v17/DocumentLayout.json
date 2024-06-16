@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\models\\fairytales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\models\\fairytales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\appcuentohadas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\appcuentohadas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|c:\\users\\cocar\\source\\repos\\appcuentohadas\\appcuentohadas\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05FE24A2-16ED-4539-904C-D06BBD99A58C}|AppCuentoHadas\\AppCuentoHadas.csproj|solutionrelative:appcuentohadas\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FairyTales.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\Models\\FairyTales.cs",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\Models\\FairyTales.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\Models\\FairyTales.cs",
+              "RelativeToolTip": "AppCuentoHadas\\Models\\FairyTales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:31:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppCuentoHadas\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:15:34.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\MainPage.xaml",
+              "RelativeToolTip": "AppCuentoHadas\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T20:21:51.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppCuentoHadas",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\AppCuentoHadas.csproj",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\AppCuentoHadas.csproj",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\AppCuentoHadas.csproj",
+              "RelativeToolTip": "AppCuentoHadas\\AppCuentoHadas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T22:29:57.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\MauiProgram.cs",
+              "RelativeToolTip": "AppCuentoHadas\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:20:25.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppCuentoHadas\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:32:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\App.xaml",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\App.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\App.xaml",
+              "RelativeToolTip": "AppCuentoHadas\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T20:21:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\App.xaml.cs",
+              "RelativeToolTip": "AppCuentoHadas\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:21:59.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\AppShell.xaml",
+              "RelativeToolTip": "AppCuentoHadas\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T20:32:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "AppCuentoHadas\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T20:57:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "AppCuentoHadas\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppCuentoHadas\\AppCuentoHadas\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "AppCuentoHadas\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T21:04:45.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
